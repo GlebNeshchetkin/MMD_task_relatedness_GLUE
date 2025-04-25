@@ -1,1 +1,1 @@
-# MMD_task_relatedness_GLUE
+# MMD^2 as task relatedness measure for GLUE dataset
